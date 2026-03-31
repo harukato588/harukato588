@@ -1,9 +1,9 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h1>I'm Haru_kato | Informatics Student</h1>
+      <h1>I'm Iqbal | Haru_kato</h1>
       <p>
-        Hello 👋 I'm <b>Haru_kato</b>, an Informatics student from Yogyakarta. 
+        Hello 👋 I'm <b>Iqbal</b> or you can call me <b>Haru_kato</b>, an Informatics student from Yogyakarta. 
         I have a huge interest in <b>Cyber Security</b>, specifically in bug hunting and manual penetration testing.
         I also love everything related to Open Source, especially <b>Arch Linux</b> and Hyprland.
       </p>
@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td valign="top" width="40%">
-      <img src="https://camo.githubusercontent.com/28a774f51b3cb9e0bdbaac9f43e1e74cd4faa373b71d8bd06cce21a81875fc6d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4867346a5544377172594d41414141432f6861636b2d7468652d706c616e65742d6861636b65722d6361742e676966" align="right" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJicnF6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" alt="Coding GIF" />
     </td>
   </tr>
 </table>
