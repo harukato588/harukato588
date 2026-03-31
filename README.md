@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td valign="top" width="40%">
-      <img src="https://camo.githubusercontent.com/9a770fac88200edbfd9c27324a9e5c02cb0e360604ee434f98f49ae3208deca2/68747470733a2f2f6d656469612e74656e6f722e636f6d2f3572792d3230306845724d41414141642f6861636b65722d6861636b65722d6d616e2e676966" align="right" alt="Coding GIF" />
+      <img src="https://camo.githubusercontent.com/28a774f51b3cb9e0bdbaac9f43e1e74cd4faa373b71d8bd06cce21a81875fc6d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4867346a5544377172594d41414141432f6861636b2d7468652d706c616e65742d6861636b65722d6361742e676966" align="right" alt="Coding GIF" />
     </td>
   </tr>
 </table>
