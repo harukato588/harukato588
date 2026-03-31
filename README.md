@@ -10,7 +10,7 @@
       <p>Nice to meet you!</p>
       <ul>
         <li>🔭 I’m currently working on some project</li>
-        <li>💻 Hacking and Development enthusiast</li>
+        <li>💻 Hacking and Cyber Security enthusiast</li>
         <li>📫 How to reach me: just mail to my GitHub</li>
         <li>⚡ Fun fact: I prefer manual testing over automated tools</li>
       </ul>
