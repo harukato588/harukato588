@@ -4,7 +4,7 @@
       <h1>I'm Haru_kato | Iqbal</h1>
       <p>
         Hello 👋 I'm <b>Iqbal</b> or you can call me <b>Haru_kato</b>, an Informatics student from Yogyakarta. 
-        I have a huge interest in <b>Cyber Security</b>, specifically in bug hunting and manual penetration testing.
+        I have a huge interest in <b>Cyber Security</b>, specifically in bug hunting and Malware Development Enthusiast.
         I also love everything related to Open Source, especially <b>Arch Linux</b> and Hyprland.
       </p>
       <p>Nice to meet you!</p>
