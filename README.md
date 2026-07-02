@@ -5,7 +5,7 @@
       <p>
         Hello 👋 I'm <b>Iqbal</b> or you can call me <b>Haru_kato</b>, an Informatics student from Yogyakarta. 
         I have a huge interest in <b>Cyber Security</b>, specifically in bug hunting and Malware Developer.
-        I also love everything related to Open Source, especially <b>Arch Linux</b> and Hyprland.
+        I also love everything related to Open Source, especially <b>Arch Linux</b>
       </p>
       <p>Nice to meet you!</p>
       <ul>
