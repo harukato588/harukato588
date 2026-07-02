@@ -1,9 +1,9 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h1>I'm Haru | Iqbal</h1>
+      <h1>I'm Haru_Kato | Iqbal</h1>
       <p>
-        Hello 👋 I'm <b>Iqbal</b> or you can call me <b>Haru_kato</b>, an Informatics student from Yogyakarta. 
+        Hello 👋 I'm <b>Iqbal</b> or you can call me <b>Haru</b>, an Informatics student from Yogyakarta. 
         I have a huge interest in <b>Cyber Security</b>, specifically in bug hunting and Malware Developer.
         I also love everything related to Open Source, especially <b>Arch Linux</b>
       </p>
